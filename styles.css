@@ -5,12 +5,14 @@ body {
     background-position: center;
     background-repeat: repeat-y;
     color: white;
+    font-family: 'Fredoka', sans-serif;
 }
 
 h1,
 h2,
 h3 {
     text-align: center;
+    background-color: black;
 }
 
 #banner {
@@ -24,7 +26,6 @@ h3 {
 }
 
 h3 {
-    background-color: black;
     padding: 20px 20px;
 }
 
